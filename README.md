@@ -78,8 +78,8 @@ GoalrApp/
 2. Open the project:
 
    ```bash
-   cd goalr
-   open GoalrApp.xcodeproj
+   cd Goalr
+   open Goalr.xcodeproj
    ```
 3. Run the app (`Cmd + R`) on your preferred device.
 4. Grant **HealthKit** access when prompted.

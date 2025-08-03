@@ -73,7 +73,7 @@ GoalrApp/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/goalr.git
+   git clone https://github.com/abgolor/goalr-ios.git
    ```
 2. Open the project:
 
